@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: ez-aiohttp
-Version: 0.0.3
+Version: 0.0.5
 Summary: Make aiohttp easier
-Home-page: https://ez_aiohttp.rukchadisa.live
+Home-page: https://ez-aiohttp.rukchadisa.live/en/latest/
 Author: Rukchad Wongprayoon
 Author-email: contact@biomooping.tk
 License: UNKNOWN
@@ -37,5 +37,5 @@ async def main():
 ```
 etc.  
 It always return `aiohttp.client_reqrep.ClientResponse` object.  
-[doc](https://ez_aiohttp.rukchadisa.live)
+[doc](https://ez-aiohttp.rukchadisa.live/en/latest/)
 

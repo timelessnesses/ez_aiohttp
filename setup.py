@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="ez_aiohttp",
-    version="0.0.4",
+    version="0.0.5",
     author="Rukchad Wongprayoon",
     author_email="contact@biomooping.tk",
     description="Make aiohttp easier",
