@@ -8,7 +8,7 @@ setuptools.setup(
     description="Make aiohttp easier",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://ez_request.rukchadisa.live",
+    url="https://ez_aiohttp.rukchadisa.live",
     packages=["ez_rq"],
     package_dir={"ez_rq": "src/ez_rq"},
     install_requires=open("requirements.txt").readlines(),

@@ -26,3 +26,4 @@ async def main():
 ```
 etc.  
 It always return `aiohttp.client_reqrep.ClientResponse` object.  
+[doc](https://ez_aiohttp.rukchadisa.live)
