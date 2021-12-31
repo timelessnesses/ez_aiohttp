@@ -26,9 +26,3 @@ async def main():
 ```
 etc.  
 It always return `aiohttp.client_reqrep.ClientResponse` object.  
-## Links
-- [aiohttp](https://docs.aiohttp.org/en/stable/client_reference.html)
-- [requests](https://2.python-requests.org/en/master/)
-- [aiohttp.ClientResponse](https://docs.aiohttp.org/en/stable/client_reference.html#aiohttp.ClientResponse)
-- [Github Repository](https://github.com/timelessnesses/ez_aiohttp)
-- [Pypi](https://pypi.org/project/ez_aiohttp/)
